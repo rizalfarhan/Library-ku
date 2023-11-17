@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled Python files
+*.pyc
+
+# Python environment
+__pycache__/
+*.pyc
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled source
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Ignore generated files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.pyc/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
